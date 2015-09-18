@@ -1,4 +1,5 @@
 # -WSQs06-TC1017
+random number
 #include <iostream>
 using namespace std;
 int main()
